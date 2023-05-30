@@ -58,6 +58,12 @@ System::System(const string &strVocFile, const string &strSettingsFile, const eS
     }
 
 
+
+/*
+
+学习项目
+
+*/
     //Load ORB Vocabulary
     cout << endl << "Loading ORB Vocabulary. This could take a while..." << endl;
 
